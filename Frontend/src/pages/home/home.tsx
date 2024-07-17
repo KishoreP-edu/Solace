@@ -35,7 +35,7 @@ const Home = () => {
         <div className='home-front-para-1'>
           <p id="home-front-para-1" >We're here to help you navigate life's challenges in a safe, supportive, and private environment. </p>
         </div>
-        <div className></div>
+        <div className="home-front-icon"></div>
         <div></div>
         <div></div>
         <div></div>

@@ -63,16 +63,16 @@
   /* paragrph - 1 */
   .home-front-para-1{
     display: flex;
-    position:relative;
-    background-color:blue;
-    margin-top: 20px;
-    margin-left: 295px;
+    justify-content: center;
+    margin: 20px auto; /* This will center the element */
     width: 600px;
-    padding: 30px 5px; 
+    padding: 30px 5px;
   }
 
   #home-front-para-1{
-    width: 400px;
-    align-content: center;
-    justify-content:center;
+    font-size: 16px;
+    width: 300px; /* Ensure it takes full width of the parent */
+    text-align: center; /* Center align the text */
+    font-weight: 10000;
+    color: #344661;
   }
