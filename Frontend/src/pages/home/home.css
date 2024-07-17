@@ -1,0 +1,78 @@
+/* General */
+
+  #home-front {
+    margin-top: 70px; /* Adjust this value if your navbar height changes */
+    padding: 20px;
+  }  
+  body {
+      background-image: url('./../../assets/images/backgound.png');
+      background-repeat: repeat;
+      background-size: auto;
+      background-position: top left;
+    }
+/* TITLE  */    
+      .home-front-title {
+        text-align: center;
+        margin-top: 20px;
+        white-space: pre-line;
+        font-size: 25px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        word-spacing: 6px;
+        letter-spacing: 1px;
+      }
+  /* Input and submit button  */
+  .home-front-input {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+  }
+  
+  .input-box {
+    padding: 20px;
+    height: 60px;
+    width: 600px;
+    border: 1px solid #000000;
+    background-color: rgba(255, 255, 255, 0); /* Transparent white */
+    border-radius: 50px;
+    margin-right: 10px;
+    font-size: 20px;
+    
+  }
+  
+  .input-box::placeholder {
+    color: #888;
+  }
+  
+  .submit-button {
+    margin-left:530px;
+    position: absolute;
+    padding: 22px 22px;
+    background-color: #181818;
+    color: #020202;
+    border: none;
+    border-radius: 100px;
+    cursor: pointer;
+  }
+
+  .submit-button:hover {
+    background-color: #ffffff;
+  }
+  
+  /* paragrph - 1 */
+  .home-front-para-1{
+    display: flex;
+    position:relative;
+    background-color:blue;
+    margin-top: 20px;
+    margin-left: 295px;
+    width: 600px;
+    padding: 30px 5px; 
+  }
+
+  #home-front-para-1{
+    width: 400px;
+    align-content: center;
+    justify-content:center;
+  }

@@ -7,5 +7,7 @@ export const colors = {
     navy_blue: '#2464A4',
     lavender_blue: '#7A7EBC',
     pastel_blue: '#9AA8D2',
-    charcoal:'#1C2434'
+    charcoal:'#1C2434',
+    nav_blue:'#A9D1DE',
+    
  };

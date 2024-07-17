@@ -34,5 +34,6 @@ import img33 from '/images/img33.png';
 import img34 from '/images/img34.png';
 import img35 from '/images/img35.png';
 import img36 from '/images/img36.png';
+import background from './images/background.png';
 
-export{img1, img2, img3, img4 , img5, img6 , img7 , img8 , img9, img10 , img11, img12, img13, img14, img15, img16, img17, img18, img19, img20, img21, img22, img23, img24, img25, img26, img27, img28, img29, img30, img31, img32, img33, img34, img35, img36}
+export{img1, img2, img3, img4 , img5, img6 , img7 , img8 , img9, img10 , img11, img12, img13, img14, img15, img16, img17, img18, img19, img20, img21, img22, img23, img24, img25, img26, img27, img28, img29, img30, img31, img32, img33, img34, img35, img36,background}
